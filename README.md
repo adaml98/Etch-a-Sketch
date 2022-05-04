@@ -1,2 +1,2 @@
 # Etch-a-Sketch
-browser version of a hybrid sketchpad/Etch-A-Sketch
+Browser version of a hybrid sketchpad/Etch-A-Sketch
